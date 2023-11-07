@@ -30,7 +30,7 @@ Follow these steps to install and run PDFGuard:
    - After installing the dependencies, open the command prompt or terminal, navigate to the code folder.
    - Then run the following command:
      ```shell
-     python pdfguard.py
+     python PDFGuard.py
      ```
 
 ## How to Use
@@ -57,4 +57,4 @@ PDFGuard provides an easy-to-use graphical user interface (GUI). Follow these st
 
 - PDFGuard is designed to enhance the security of PDF files by removing potential security threats and hidden content. However, it may not guarantee complete security for all types of PDFs.
 - The output PDFs may not retain the same quality and text selectability as the input PDFs.
-- If you require additional security measures, such as encryption or password protection for your PDFs, you should explore other tools and methods.
+- If you require additional security measures for your PDFs, you should explore other tools and methods.
